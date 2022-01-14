@@ -1,0 +1,705 @@
+1ID,CIL ID,Document Name,Requirements Section,Requirements Text,In Compliance with Contract Documents,Submittal PMT,CP4 Allocations,ICD Status,Comments
+1958,IF 1233,30 CP4 IF-REG,1.1.1.1.1 Interface between GEN Reliability & Availability Targets and GWY Infrastructure,"Purpose/Scope:
+Ensures that the applicable GEN RAMS targets have been addressed by the INF team, including but not limited to:
+- Reliability
+- Availability
+- ...",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+1963,IF 6330,30 CP4 IF-REG,2.1.1.1.1 Interface between O&M Universal Crossover Spacing Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M universal crossover spacing requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+1964,IF 6331,30 CP4 IF-REG,2.1.1.1.2 Interface between O&M Station Crossover Spacing Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M station crossover spacing requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","RFC At-Grade
+Construction At-Grade",N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+ICD missing from Sharepoint"
+1967,IF 4355,30 CP4 IF-REG,"2.1.1.2.2 Interface between O&M Maximum Design Speed (Special Trackwork) and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M maximum design speed (special trackwork) has been applied by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+1971,IF 597,30 CP4 IF-REG,"2.1.1.4.1 Interface between O&M Visibility of Wayside/Trackside Equipment Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M visibility of wayside/trackside equipment requirements have been applied by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+1977,IF 843,30 CP4 IF-REG,"2.2.1.2.1 Interface between O&M MoI Walkway Spatial Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI walkway spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+1978,IF 912,30 CP4 IF-REG,"2.2.1.2.2 Interface between O&M MoI Access Stairway Spatial Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI access stairway spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Open Trench","60% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,"No structures require stairways due to length < 2500 ft. 
+
+Discuss with Simon if needed on guideway"
+1983,IF 512,30 CP4 IF-REG,2.2.1.4.1 Interface between O&M MoI Equipment Dynamic Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI equipment dynamic envelope requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+60% Structure Type 2
+90% Structure Type 2
+RFC Wildlife Crossings",,
+1985,IF 3678,30 CP4 IF-REG,"2.2.1.4.3 Interface between O&M MoI Equipment Dynamic Train-Structure Interaction Analysis and GWY Infrastructure 
+","Purpose/Scope:
+Ensures that the O&M MoI equipment dynamic train-structure interaction has been addressed by the INF team.1048
+",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder on Sharepoint"
+1987,IF 2586,30 CP4 IF-REG,"2.2.1.5.1 Interface between O&M MoI CIV Maintainability & Ease of Maintenance Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the applicable O&M MoI CIV maintainability & ease of maintenance requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","CP4
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+1988,IF 5892,30 CP4 IF-REG,"2.2.1.5.2 Interface between O&M MoI STR Maintainability & Ease of Maintenance Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the applicable O&M MoI STR maintainability & ease of maintenance requirements have been addressed by the INF team.",,"Design Baseline Report
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","CP4
+90% At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+1989,IF 1203,30 CP4 IF-REG,"2.2.1.5.3 Interface between O&M MoI DRN Maintainability & Ease of Maintenance Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI DRN maintainability & ease of maintenance requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)","CP4
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+60% DL0025 Merced
+90% DL0025 Merced
+90% Structure Type 2
+RFC Structure Type 2
+Construction Type 2
+RFC Wildlife Crossings",,
+1994,IF 831,30 CP4 IF-REG,3.3.1.1.1 Interface between O&M MoI TCS Interlocking & TCC House Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI TCS Interlocking & TCC house site access requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+1997,IF 5611,30 CP4 IF-REG,3.3.2.1.1 Interface between SYS TCS Interlocking & TCC House Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS interlocking & TCC house site location (where to install, not size) requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+1998,IF 794,30 CP4 IF-REG,3.3.2.1.2 Interface between SYS TCS Interlocking & TCC House Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS interlocking & TCC house site spatial requirements (site, not location) have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2000,IF 3304,30 CP4 IF-REG,3.3.2.2.1 Interface between SYS TCS Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS wayside/field equipment (not trackside) spatial requirements have been addressed by the INF team.F45",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2001,IF 5627,30 CP4 IF-REG,3.3.2.2.2 Interface between SYS TCS Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS wayside/field equipment foundation requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2003,IF 876,30 CP4 IF-REG,"3.3.2.3.1 Interface between SYS TCS Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS TCS conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team, including but not limited to:
+- Track circuits & cases
+- Signals
+- Transponder & LEU
+- Cross bonding
+- Signal power supply
+- Signal power distribution
+- ...",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2007,IF 2611,30 CP4 IF-REG,3.3.2.5.1 Interface between SYS TCS System Utility Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS system utility spatial requirements have been addressed by the INF team, including but not limited to:
+- Electrical utility (e.g. PG&E)
+- Gas/fuel
+- Water
+- Sewer
+- Communications",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2011,IF 5871,30 CP4 IF-REG,3.4.1.1.1 Interface between O&M MoI COM Equipment Shelter & Radio Tower Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI COM equipment shelter & radio tower site access requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2014,IF 5653,30 CP4 IF-REG,3.4.2.1.1 Interface between SYS COM Equipment Shelter & Radio Tower Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM equipment shelter & radio tower site location (where to install, not size) requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2015,IF 904,30 CP4 IF-REG,3.4.2.1.2 Interface between SYS COM Equipment Shelter & Radio Tower Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM equipment shelter & radio tower site spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+821,IF 1048,30 CP4 IF-REG,3.4.2.1.3 Interface between SYS COM Equipment Shelter & Radio Tower Site Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM equipment shlter & radio tower site foundation requirements have been addressed by the INF team. {",,,,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder on Sharepoint"
+2017,IF 600,30 CP4 IF-REG,3.4.2.2.1 Interface between SYS COM Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM wayside/field equipment spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2018,IF 5725,30 CP4 IF-REG,3.4.2.2.2 Interface between SYS COM Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM wayside/field equipment foundation requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2020,IF 877,30 CP4 IF-REG,"3.4.2.3.1 Interface between SYS COM Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS COM conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2022,IF 657,30 CP4 IF-REG,"3.4.2.4.1 Interface between SYS COM Air Gap Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the SYS COM air gap requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2028,IF 4252,30 CP4 IF-REG,"3.5.1.1.1 Interface between SYS Conduit, Duct Bank, Cable Trough & Manhole Requirements G&B Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS conduit, duct bank, cable trough & manhole grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2030,IF 1141,30 CP4 IF-REG,3.5.1.2.1 Interface between SYS At-Grade G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS at-grade grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+Specification","RFC At-Grade
+Construction At-Grade",N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+Approved ICD not in submittal folde ron Sharepoint"
+2033,IF 4112,30 CP4 IF-REG,3.5.1.3.2 Interface between SYS New Overpass Structure G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS new overpass structure grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)
+Report and/or Calculation","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% DL0025 Merced
+90% DL0025 Merced
+60% Structure Type 2
+90% Structure Type 2
+RFC Structure Type 2
+Construction Type 2",,
+2036,IF 5796,30 CP4 IF-REG,3.5.1.4.2 Interface between SYS Cut & Cover Tunnel Structure G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS cut & cover tunnel structure grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+HST Cut & Cover Tunnel
+Specification",,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder on Sharepoint"
+2038,IF 3999,30 CP4 IF-REG,3.5.1.5.1 Interface between SYS Utility G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS utility grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Specifications",,
+2040,IF 4107,30 CP4 IF-REG,3.5.1.6.1 Interface between SYS Existing Overpass Structure G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS existing overpass structure grounding & bonding requirements have been addressed by the INF team.",,"Design Baseline Report
+RDW Overhead (HST Underpass)
+Specification","60% DL0025 Merced
+90% DL0025 Merced
+RFC Structure Type 2
+Construction Type 2",N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder in Sharepoint"
+2051,IF 490,30 CP4 IF-REG,4.1.1.2.1 Interface between RST HST Trainset Static Gauge Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset static gauge requirements have been addressed by the INF team, including but not limited to:
+- Tangent
+- Curved
+- Superelevated (incl. tilting)
+- Curved & superelevated",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2052,IF 481,30 CP4 IF-REG,4.1.1.2.2 Interface between RST HST Trainset Dynamic Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset dynamic envelope requirements have been addressed by the INF team, including but not limited to:
+- Tangent
+- Curved
+- Superelevated (incl. tilting)
+- Curved & superelevated",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2065,IF 201,30 CP4 IF-REG,"5.1.1.1.1 Interface between CHSRS CP2-3 Alignment and CHSRS CP4 Alignment
+","Purpose/Scope:
+Ensures that the CP2-3 and CP4 alignments have been coordinated, including but not limited to:
+- Horizontal alignment
+- Vertical alignment",,,"90% At-Grade
+Construction At-Grade",,
+2074,IF 878,30 CP4 IF-REG,3.1.1.1.1 Interface between O&M MoI TP Facility Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI TP facility site access requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+2077,IF 80,30 CP4 IF-REG,3.1.2.1.1 Interface between TRK TP Maximum Grade @ Phase Break Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP system maximum grade @ phase break requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+2079,IF 5597,30 CP4 IF-REG,3.1.2.2.1 Interface between TRK TP Facility & WPC Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP facility & WPC site location (where to install, not size) requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+2080,IF 4271,30 CP4 IF-REG,3.1.2.2.2 Interface between TRK TP Facility & WPC Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP facility & WPC site spatial (site, not location) requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+1012,IF 871,30 CP4 IF-REG,3.1.2.2.3 Interface between SYS TP Facility & WPC Site Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP facility & WPC site foundation requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel",,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+"
+2082,IF 1143,30 CP4 IF-REG,3.1.2.3.1 Interface between TRK TP Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP wayside/field equipment spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2083,IF 5671,30 CP4 IF-REG,3.1.2.3.2 Interface between TRK TP Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP wayside/field equipment foundation requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench","RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2085,IF 885,30 CP4 IF-REG,"3.1.2.4.1 Interface between TRK TP Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS TP conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team, including but not limited to:
+- Overhead or duct bank from TPF to Main Gantry
+- Overhead from Main Gantry to Strain Gantry
+- Return System to Gantries
+- Feeder cables
+- Return cables
+- Surface conduits (multiple, large diameter)
+- Embedded conduits
+- ...",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2087,IF 3019,30 CP4 IF-REG,3.1.2.5.1 Interface between TRK TP System Dead Load Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP system dead load requirements have been addressed by the INF team.",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2091,IF 656,30 CP4 IF-REG,3.2.1.1.1 Interface between TRK OCS Pantograph Clearance Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS pantograph clearance envelope requirements have been addressed by the INF team (actual wayside equipment is addressed elsewhere).",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+60% DL0025 Merced
+90% DL0025 Merced
+60% Structure Type 2
+90% Structure Type 2
+RFC Structure Type 2
+Construction Type 2
+RFC Wildlife Crossings",,
+2093,IF 3299,30 CP4 IF-REG,3.2.1.2.1 Interface between TRK OCS Structure & Wire Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS structure & wire spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+90% Structure Type 2
+RFC Wildlife Crossings",,
+2094,IF 5752,30 CP4 IF-REG,3.2.1.2.2 Interface between TRK OCS Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS wayside/field equipment spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2095,IF 5766,30 CP4 IF-REG,3.2.1.2.3 Interface between TRK OCS Phase Break Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS wayside/field equipment spatial requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+2097,IF 898,30 CP4 IF-REG,3.2.1.3.1 Interface between TRK OCS Foundation & Supporting Structure Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS foundation & supporting structure location requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2098,IF 5780,30 CP4 IF-REG,3.2.1.3.2 Interface between TRK OCS Foundation & Supporting Structure Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS foundation & supporting structure spatial requirements have been addressed by the INF team.
+",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2100,IF 886,30 CP4 IF-REG,"3.2.1.4.1 Interface between TRK OCS Conduit, Duct Bank & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS OCS conduit, duct bank & manhole requirements have been addressed by the INF team, including but not limited to:
+- Traction power return
+- Grounding
+- Cross bonding
+- Disconnect switches
+- Switch heater power supply
+- Switch heater power distribution
+- ...",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade
+60% Structure Type 1
+90% Structure Type 1
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",,
+2104,IF 5641,30 CP4 IF-REG,"3.2.1.6.1 Interface between TRK OCS Protective Screening & Barrier Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the SYS OCS protective screening & barrier requirements have been addressed by the INF team.",,"Design Baseline Report
+RDW Overhead (HST Underpass)","60% DL0025 Merced
+90% DL0025 Merced
+RFC Structure Type 2
+Construction Type 2",N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2109,IF 2606,30 CP4 IF-REG,6.1.1.1.1 Interface between EXT TP Auxiliary Power & Utility Spatial Needs at TPF Sites  and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP system utility spatial requirements have been addressed by the INF team, including but not limited to:
+Traction power
+Electrical utility (e.g. PG&E)
+Gas/fuel
+Water
+Sewer
+Communications",,"Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation","60% At-Grade
+90% At-Grade
+RFC At-Grade
+Construction At-Grade",,
+2113,IF 3764,30 CP4 IF-REG,"6.2.1.1.1 Interface between EXT Amtrak Trainset Dynamic Envelope Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT Amtrak trainset dynamic envelope requirements have been addressed by the INF team.",,"Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)","RFC At-Grade
+Construction At-Grade
+RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2115,IF 3706,30 CP4 IF-REG,"6.2.1.2.1 Interface between EXT Amtrak Trainset Axle Loads and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT Amtrak trainset axle loads have been addressed by the INF team.",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2116,IF 3683,30 CP4 IF-REG,"6.2.1.2.2 Interface between EXT Amtrak Trainset Dynamic Train-Structure Interaction Analysis and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT Amtrak trainset dynamic train-structure interaction has been addressed by the INF team.",,"Design Baseline Report
+HST Aerial Structure and/or Bridge","RFC Structure Type 1
+Construction Type 1
+RFC Wildlife Crossings",N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder in Sharepoint"
+2117,IF 3537,30 CP4 IF-REG,"6.2.1.2.3 Interface between EXT Amtrak Trainset Derailment/Collision Loads and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT Amtrak trainset derailment/collision loads have been addressed by the INF team, including but not limited to:
+- HST structures
+- Trench structures",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+2121,IF 3701,30 CP4 IF-REG,"6.3.1.1.1 Interface between EXT Construction Equipment Axle Loads and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT construction equipment axle loads have been addressed by the INF team.",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+ICD not in submittal folder in Sharepoint"
+2122,IF 3673,30 CP4 IF-REG,"6.3.1.1.2 Interface between EXT Construction Equipment Dynamic Train-Structure Interaction Analysis and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the EXT construction equipment dynamic train-structure interaction has been addressed by the INF team.",,"Design Baseline Report
+Report and/or Calculation
+Specification",,N/A,"Submitted as a N/A interface on 1/10/2018.  Approved 2/9/2018.
+
+Approved ICD not in submittal folder on Sharepoint"

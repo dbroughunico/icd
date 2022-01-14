@@ -1,0 +1,22 @@
+
+type = tk.Tk()
+frame = tk.Frame(type)
+frame.pack()
+
+def des_select():
+    val = des
+
+def cons_select():
+    val = cons 
+
+des = tk.Button(frame, 
+                   text="Design", 
+                   command= des_select
+                   )
+des.pack(side=tk.LEFT)
+
+cons = tk.Button(frame, 
+                   text="Costruction", 
+                   command= cons_select
+                   )
+cons.pack(side=tk.LEFT)

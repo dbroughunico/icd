@@ -1,0 +1,3178 @@
+1ID,CIL ID,Document Name,Requirements Section,Requirements Text,Submittal PMT,In Compliance with Contract Documents,Reference Document,DCN,Comments,LIVE - Req. Change,LIVE - Appor. To,Static of LIVE - Req. Change,Static of LIVE - Appor. To
+18,PHA 139,10 CP4 PHA,1.1.1.3  Roadbed Failure,"Resolution #2
+[2] INF:
+Install appropriate drainage.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-B0101 to TT-B0105, TT-B0110 to TT-B0112",,,"DL0005: 
+Entire segment
+DL0005:
+Comply with HSR Phase II MS4 General Permit and other regulatory requirements. See letter for details.
+
+RVTM:  1837-1839, 2141","DL0005: 
+Entire segment","DL0005: 
+Entire segment
+DL0005:
+Comply with HSR Phase II MS4 General Permit and other regulatory requirements. See letter for details.
+
+RVTM:  1837-1839, 2141","DL0005: 
+Entire segment"
+21,PHA 141,10 CP4 PHA,1.1.1.4  Washout caused by flooding or scouring,"Resolution #1
+[1] INF:
+Perform hydraulics analysis and incorporate results into sub-grade design slope protection and setting of profile.","Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation
+Specification",Verified,TT-B0101 to TT-B0105 ,,See Note 3 & 9 of TT-B0101 to TT-B0104," 
+ ", ," 
+ ", 
+22,PHA 142,10 CP4 PHA,1.1.1.4  Washout caused by flooding or scouring,"Resolution #2
+[2] INF:
+Install scour protection (revetment or other structure) to protect sub-grade from water course.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,TT-B0101 Drainage Layer detail,,," 
+ ", , , 
+23,PHA 143,10 CP4 PHA,1.1.1.4  Washout caused by flooding or scouring,"Resolution #3
+[3] INF:
+Install culvert or bridge structure where crossing water course.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-D1040,,," 
+ ", , , 
+41,PHA 157,10 CP4 PHA,1.1.1.7  High Winds,"Resolution #4
+[4] INF:
+Install wind barriers at high-risk locations where need is supported by wind analysis.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Open Trench
+RDW Underpass (HST Overpass)
+Report and/or Calculation
+Specification",N/A,N/A,,The north section is not a high risk location.," 
+ ", ," 
+ ", 
+44,PHA 161,10 CP4 PHA,1.1.2.1  Collision between HSR trains,"Resolution #1
+[1] INF:
+Track center spacing exceeds the combined dynamic envelopes of the trains.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", , , 
+48,PHA 163,10 CP4 PHA,1.1.2.2  Non-HSR train enters HSR trackway from adjacent exclusive corridor.,"Resolution #1
+[1] INF:
+Install intrusion prevention measures appropriate to site-specific conditions.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Open Trench",Verified,"TT-D1044 through TT-D1046, Typical Section TT-B0105","ST-G1001, ST-G1002, ST-G3001 and ST-G5001 (drawings added through DCN 71)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL0024R1:
+Entire Segment
+
+DL0024 R2, R3 and R4: entire segment
+
+DL0024R5:
+Entire segment
+DL00024R1:
+Overriding text:
+The preferred protection is to locate HSR operating infrastructure at a sufficient distance from passenger and freight (conventional) railroad systems to avoid intrusion.  A lateral distance of 102 feet or greater measured between the closest HSR track centerline (TCL) to conventional railroad right-of-way or property line does not require a phsyical barrier for intrusion protection.
+
+DL00024 R2, R3, R4, R5 supersede R1.
+
+DL0024R5:
+Overriding Text:
+?An earth berm may be constructed directly adjacent to, or in contact with, the high-speed rail embankment only when HSR alignment is on tangent or when BNSF tracks are located on the inside of an HSR horizontal curve (regardless of radius).
+• Where BNSF is on the outside of an HSR horizontal curve, the stand-alone berm may be used provided there is sufficient space. It is allowable to reduce the width of the stand-alone earth berm by introducing a retaining wall on the high-speed rail side of the berm.The modified standalone berm shall provide the equivalent resistance to train impact, as demonstrated through calculation as the unmodified stand-alone berm.
+
+RVTMs: 1254, 1256-1263, 1265-1267, 4637, 4639, 18139-18143, 18147-18153, 18155-18162
+","DL0024R1:
+Entire Segment
+
+DL0024 R2, R3 and R4: entire segment
+
+DL0024R5:
+Entire segment", , 
+52,PHA 166,10 CP4 PHA,1.1.2.3  Collision with a highway vehicle at an at-grade crossing ,"Resolution #1
+[1] INF:
+Grade separations for all public highway crossings at grade in CAHST exclusive corridors. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1012, TT-D1025, TT-D1029",,," 
+ ", , , 
+58,PHA 170,10 CP4 PHA,1.1.2.5  Highway vehicle enters the HSR trackway from an adjacent roadway,"Resolution #1
+[1] INF:
+Install intrusion prevention measures appropriate to site-specific conditions.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-D1023 and TT-D1024,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL0024R1:
+Entire Segment
+
+DL0024R5:
+Entire segment
+DL00024R1:
+Overriding text:
+The preferred protection is to locate HSR operating infrastructure at a sufficient distance from passenger and freight (conventional) railroad systems to avoid intrusion.  A lateral distance of 102 feet or greater measured between the closest HSR track centerline (TCL) to conventional railroad right-of-way or property line does not require a phsyical barrier for intrusion protection.
+
+DL00024 R2, R3, R4, R5 supersede R1.
+
+DL0024R5:
+Overriding Text:
+?An earth berm may be constructed directly adjacent to, or in contact with, the high-speed rail embankment only when HSR alignment is on tangent or when BNSF tracks are located on the inside of an HSR horizontal curve (regardless of radius).
+• Where BNSF is on the outside of an HSR horizontal curve, the stand-alone berm may be used provided there is sufficient space. It is allowable to reduce the width of the stand-alone earth berm by introducing a retaining wall on the high-speed rail side of the berm.The modified standalone berm shall provide the equivalent resistance to train impact, as demonstrated through calculation as the unmodified stand-alone berm.
+
+RVTMs: 1254, 1256-1263, 1265-1267, 4637, 4639, 18139-18143, 18147-18153, 18155-18162
+• 
+• ","DL0024R1:
+Entire Segment
+
+DL0024R5:
+Entire segment","DL0024R1:
+Entire Segment
+
+DL0024R5:
+Entire segment
+DL00024R1:
+Overriding text:
+The preferred protection is to locate HSR operating infrastructure at a sufficient distance from passenger and freight (conventional) railroad systems to avoid intrusion.  A lateral distance of 102 feet or greater measured between the closest HSR track centerline (TCL) to conventional railroad right-of-way or property line does not require a phsyical barrier for intrusion protection.
+
+DL00024 R2, R3, R4, R5 supersede R1.
+
+DL0024R5:
+Overriding Text:
+?An earth berm may be constructed directly adjacent to, or in contact with, the high-speed rail embankment only when HSR alignment is on tangent or when BNSF tracks are located on the inside of an HSR horizontal curve (regardless of radius).
+• Where BNSF is on the outside of an HSR horizontal curve, the stand-alone berm may be used provided there is sufficient space. It is allowable to reduce the width of the stand-alone earth berm by introducing a retaining wall on the high-speed rail side of the berm.The modified standalone berm shall provide the equivalent resistance to train impact, as demonstrated through calculation as the unmodified stand-alone berm.
+
+RVTMs: 1254, 1256-1263, 1265-1267, 4637, 4639, 18139-18143, 18147-18153, 18155-18162
+• 
+• ","DL0024R1:
+Entire Segment
+
+DL0024R5:
+Entire segment"
+76,PHA 183,10 CP4 PHA,1.1.2.10  Trespasser,"Resolution #1
+[1] INF:
+Install access-restricting fencing. ","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0222 (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+77,PHA 184,10 CP4 PHA,1.1.2.10  Trespasser,"Resolution #2
+[2] INF/SYS:
+Install hardened intrusion-prevention barriers and/or an intrusion detection system at high-risk locations identified by TVA or SiSHA.","HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,TT-D1008 to TT-D1044,"TT-D1008 to TT-D1044 (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+81,PHA 188,10 CP4 PHA,1.1.2.11  Livestock,"Resolution #1
+[1] INF:
+Install access-restricting fencing. ","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0222 (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+82,PHA 187,10 CP4 PHA,1.1.2.11  Livestock,"Resolution #2
+[2] INF:
+Provide livestock/wildlife undercrossings appropriate to site-specific conditions. ","Design Baseline Report
+HST At-Grade (Guideway)
+HST Open Trench",Verified,"TT-D1001 to TT-D1046 Plan and Profile
+","TT-D1001 to TT-D1046 Plan and Profile (as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+87,PHA 192,10 CP4 PHA,1.1.2.12  Flooding standing water,"Resolution #1
+[1] INF:
+ Perform hydraulics analysis and incorporate results in setting of profile and drainage conveyance system.","Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation
+Specification",Verified,"H&H report section 5.4 
+
+Drainage Layer Rip-Rap Detail Sheet TT-B0101",,," 
+ ", ," 
+ ", 
+88,PHA 193,10 CP4 PHA,1.1.2.12  Flooding standing water,"Resolution #2
+[2] INF:
+Provide flood protection where profile cannot be above flood plain for 100-yr storm event. ","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Underpass (HST Overpass)",Verified,"TT-D1031 to TT- D1043,
+TT-G1031 to TT-G1043","TT-G1031 to TT-G1043
+(as affected by DCN 59)
+",," 
+ ", , , 
+102,PHA 203,10 CP4 PHA,1.1.3.1  Fire and/or smoke on at-grade alignment,"Resolution #2
+[2] INF:
+Use of non-flammable materials on ROW.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"GE-C0102, Note 8",,," 
+ ", , , 
+108,PHA 208,10 CP4 PHA,1.1.3.2  Wayside fire and/or smoke adjacent to an at-grade alignment,"Resolution #2
+[2] INF:
+Use of non-flammable materials on ROW.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"GE-C0102, Note 8",,," 
+ ", , , 
+117,PHA 215,10 CP4 PHA,1.1.4.2  Passing train effects persons or vehicles adjacent to but outside the HSR R-O-W,"Resolution #1
+[1] INF:
+Provide screens/barriers where needed to mitigate effects of passing HSR trains for smaller R-O-W widths.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",No screens/barrier shown in design," 
+ ", , , 
+118,PHA 422,10 CP4 PHA,1.1.4.2  Passing train effects persons or vehicles adjacent to but outside the HSR R-O-W,"Resolution #2
+[2] INF:
+Establish minimum 60 foot R-O-W width to mitigate effects. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-D1001 through TT-D1044,"TT-D1001 through TT-D1044 (as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+120,PHA 216,10 CP4 PHA,1.1.4.3  Passing HSR trains affect each other,"Resolution #1
+[1] INF:
+Establish appropriate track center standards","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,"TT-E0101 Track Geometry Data Table, TT-B0101 to TT-B0109",,"Min. spacing = 16'-6"" for V > 160mph"," 
+ ", , , 
+122,PHA 217,10 CP4 PHA,1.1.4.4  Leak or rupture in hazmat pipeline crossing under or adjacent HSR trackway.,"Resolution #1
+[1] INF:
+Locate and protect high-risk utilities.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+125,PHA 423,10 CP4 PHA,1.1.4.4  Leak or rupture in hazmat pipeline crossing under or adjacent HSR trackway.,"Resolution #4
+[4] INF:
+High-risk pipelines shall not be allowed on HSR structures, tunnels, or through trench/sub-grade structures.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",N/A,N/A,,Inlcuded in utilities submissions," 
+ ", ," 
+ ", 
+127,PHA 218,10 CP4 PHA,1.1.4.5  Leak or rupture in non-hazmat pipeline crossing under or adjacent HSR trackway.,"Resolution #1
+[1] INF:
+Locate and protect low-risk utilities.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+133,PHA 222,10 CP4 PHA,1.1.4.7  Overhead high voltage lines collapse onto ROW or are struck during construction / maintenance activities,"Resolution #1
+[1] INF:
+ Locate overhead high-voltage lines in conformance w/CPUC G.O. 95. ","Design Baseline Report
+HST At-Grade (Guideway)
+",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+134,PHA 223,10 CP4 PHA,1.1.4.7  Overhead high voltage lines collapse onto ROW or are struck during construction / maintenance activities,"Resolution #2
+[2] INF:
+Establish minimum wire-to-wire clearances.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+138,PHA 226,10 CP4 PHA,1.1.4.8  Other overhead utility lines (telephone cable etc) collapse onto ROW or are struck during construction / maintenance activities,"Resolution #1
+[1] INF:
+Relocate all other utilities to underground installation.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+142,PHA 229,10 CP4 PHA,1.1.4.9  Underground utilities struck during construction / maintenance activities,"Resolution #1
+[1] INF:
+Locate and modify existing or new utilities to provide adequate protection per AREMA and local utility standards.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,Included in utilities submissions," 
+ ", ," 
+ ", 
+154,PHA 401,10 CP4 PHA,1.1.4.12  Adjacent wind turbine ,"Resolution #2
+[2] INF:
+Horizontal separation between the CHSTS right-of-way and the base of the wind turbine of at least 1-1/2 times the total wind turbine height. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-B0101 to TT-B0105,,No turbines," 
+ ", ," 
+ ", 
+160,PHA 406,10 CP4 PHA,1.1.4.13  Blowout of adjacent oil well while HSR train is passing.,"Resolution #2
+[2] INF:
+Relocate all active oil or gas wells outside the CHSRP right-of-way and to prohibit the drilling of new wells within the CHSRP right-of-way","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,No oil wells," 
+ ", ," 
+ ", 
+165,PHA 240,10 CP4 PHA,1.1.5.1  Evacuation from any alignment,"Resolution #1
+[1] INF:
+Walkways minimum 3 ft wide. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-B0101 to TT-B0109 
+",,," 
+ ", , , 
+166,PHA 241,10 CP4 PHA,1.1.5.1  Evacuation from any alignment,"Resolution #2
+[2] INF:
+Emergency access and egress at nominal 2.5 mile intervals, with a maximum interval of 3.0 miles. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+167,PHA 242,10 CP4 PHA,1.1.5.1  Evacuation from any alignment,"Resolution #3
+[3] INF:
+Emergency vehicle assembly areas at access/egress points.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+171,PHA 245,10 CP4 PHA,1.1.5.2  Dense ground fog impairs visibility,"Resolution #1
+[1] INF:
+Eliminate highway-rail and pedestrian grade crossings in CAHST exclusive corridors. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1012, TT-D1025, TT-D1029",,," 
+ ", ," 
+ ", 
+172,PHA 246,10 CP4 PHA,1.1.5.2  Dense ground fog impairs visibility,"Resolution #2
+[2] INF:
+Access-control fencing to seal the corridor from outside access.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a to ST-W1001-WLC (Drawings added by DCN 92)",,"DL0020:
+Entire segment
+
+DL0020R3:
+Entire Segment
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL0020:
+Entire segment
+
+DL0020R3:
+Entire Segment","DL0020:
+Entire segment
+
+DL0020R3:
+Entire Segment
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL0020:
+Entire segment
+
+DL0020R3:
+Entire Segment"
+173,PHA 247,10 CP4 PHA,1.1.5.2  Dense ground fog impairs visibility,"Resolution #3
+[3] INF:
+Intrusion protection berms, walls, and other barriers to prevent the intrusion of persons, animals,  rail or highway vehicles as identified through SSHA or TVA. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1044, TT-D1045, TT-D1046, TT-B0110 and TT-B0111 Typical Sections
+TT-D1007 - TT-D1011, TT-D1023, TT-D1024","TT-D1007 - TT-D1011 (as affected by DCN 59)
+
+ST-G1001, ST-G1002, ST-G3001 and ST-G5001 (drawings added through DCN 71)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",," 
+ ", , , 
+191,PHA 257,10 CP4 PHA,1.2.1.5  Collapse,"Resolution #1
+[1] INF:
+Establish minimum OH clearance for roadways.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Underpass (HST Overpass)
+",Verified,"TT-D1012, TT-D1025, TT-D1029",,," 
+ ", ," 
+ ", 
+218,PHA 278,10 CP4 PHA,1.2.1.11  Evacuation required.,"Resolution #1
+[1] INF:
+Stairway access every 2.5 miles with a maximum interval of 3.0 miles.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",No stairways," 
+ ", ," 
+ ", 
+219,PHA 279,10 CP4 PHA,1.2.1.11  Evacuation required.,"Resolution #2
+[2] INF:
+Aerial ladder truck access every 2500 feet.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Underpass (HST Overpass)",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+225,PHA 285,10 CP4 PHA,1.2.1.11  Evacuation required.,"Resolution #8
+[8] INF:
+Access/egress stairway designed per requirements of CA Building Code Chapter 10 (Means of Egress).","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",N/A,N/A,,No stairways," 
+ ", ," 
+ ", 
+281,PHA 319,10 CP4 PHA,1.2.3.2  Fire in trench,"Resolution #3
+[3] INF:
+Emergency access/egress at 2500 foot intervals. Stairway design per CA Building Code, Chapter 10 (Means of Egress).","Design Baseline Report
+HST At-Grade (Guideway)
+HST Open Trench
+Specification
+",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+282,PHA 320,10 CP4 PHA,1.2.3.2  Fire in trench,"Resolution #4
+[4] INF:
+Fixed water supply at emergency access points.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Open Trench",N/A,N/A,,No trenches," 
+ ", ," 
+ ", 
+291,PHA 327,10 CP4 PHA,1.2.3.4  Evacuation required.,"Resolution #1
+[1] INF:
+Emergency access/egress points at nominal 2500 foot intervals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Open Trench",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+300,PHA 336,10 CP4 PHA,1.2.3.5  Flooding,"Resolution #2
+[2] INF:
+Height of trench wall set above the 100-yr flood plain.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Open Trench",N/A,N/A,,No trenches," 
+ ", ," 
+ ", 
+304,PHA 339,10 CP4 PHA,1.2.3.6  Flooding,"Resolution #1
+[1] INF:
+Water-carrying structures that cross the HST alignment shall be in sealed enclosed culvert or the trench section shall be changed to cut-and-cover tunnel configuration.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel
+HST Open Trench",N/A,N/A,,No water carrying structures," 
+ ", ," 
+ ", 
+314,PHA 345,10 CP4 PHA,1.2.4.1  Raised Embankments - Sliding / Collapse,"Resolution #2
+[2] INF:
+Construct embankments to ensure slope stability.","Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation
+Specification",Verified,TT-B0101 note 8,,," 
+ ", ," 
+ ", 
+316,PHA 346,10 CP4 PHA,1.2.4.2  Exposed precipices at culverts / walls,"Resolution #1
+[1] INF:
+Install fall prevention barriers (handrailing or wall) where exposed edge allows potential fall of greater than 30"".","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)",Verified,TT-B0101 - TT-B0111 typical sections,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",," 
+ ", ," 
+ ", 
+319,PHA 348,10 CP4 PHA,1.2.4.3  Person enters confined space / culvert,"Resolution #1
+[1] INF:
+ Install barriers at entrances to culverts and other confined spaces to prevent entry by unauthorized persons at high-risk locations, as identified by TVA or SiSHA (site-specific hazard analysis).","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",N/A,N/A,,No confined spaces / culverts," 
+ ", ," 
+ ", 
+332,PHA 355,10 CP4 PHA,1.2.4.7  Evacuation from retained fill or raised embankment trainway.,"Resolution #1
+[1] INF:
+Walkways minimum 3 ft. wide. 332","Design Baseline Report
+HST At-Grade (Guideway)
+",Verified,"TT-B0101 to TT-B0109
+",,," 
+ ", ," 
+ ", 
+333,PHA 356,10 CP4 PHA,1.2.4.7  Evacuation from retained fill or raised embankment trainway.,"Resolution #2
+[2] INF:
+Emergency access/egress at nominal 2.5 mile intervals with a maximum of 3 mile intervals. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+334,PHA 357,10 CP4 PHA,1.2.4.7  Evacuation from retained fill or raised embankment trainway.,"Resolution #3
+[3] INF:
+Emergency vehicle assembly areas at access/egress points.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1006, TT-D1014, TT-D1023, TT-D1031, TT-D1039 Plan Views","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+336,PHA 359,10 CP4 PHA,1.2.4.7  Evacuation from retained fill or raised embankment trainway.,"Resolution #5
+[5] INF:
+Access/egress stairways designed per requirements of CA Building Code , Chapter 10 (Means of Egress). ","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",N/A,N/A,,No stairways," 
+ ", ," 
+ ", 
+337,PHA 360,10 CP4 PHA,1.2.4.7  Evacuation from retained fill or raised embankment trainway.,"Resolution #6
+[6] INF:
+One outside walkway on each side of multiple-track structures. ","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-B0101 - TT-B0109 typical sections,,," 
+ ", ," 
+ ", 
+347,TVA 1230,20 CP4 TVA,"1.1.1.1  IED
+Detonates on the -At Grade Right-of-Way- in populated areas.","Mitigation F
+[INF]
+Physical access control with fencing/barriers and high security lock system to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,"TT-D1008, 
+TT-D1009, 
+TT-D1010, 
+TT-D1024
+","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+361,TVA 2618,20 CP4 TVA,"1.1.1.2  VBIED
+Collision with rail vehicle at grade ROW","Mitigation G
+[INF]
+Right of Way access controls","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,"TT-D1007,
+TT-D1008, 
+TT-D1009, 
+TT-D1010, 
+TT-D1024
+","TT-D1007 (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",Magnolia Avenue and Scolfield ,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+362,TVA 2619,20 CP4 TVA,"1.1.1.2  VBIED
+Collision with rail vehicle at grade ROW","Mitigation H
+[INF]
+K-rail, berm or other barrier where tracks are adjacent to public road","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1007,
+TT-D1008, 
+TT-D1009, 
+TT-D1010, 
+TT-D1024
+",TT-D1007 (as affected by DCN 59),," 
+ ", ," 
+ ", 
+369,TVA 1238,20 CP4 TVA,"1.1.1.3  Sabotage
+Occurs on the ROW","Mitigation G
+[INF]
+Physical access control with high security lock system and fencing/barriers to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,"GE-C0102 General Notes, Note 9","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+389,TVA 1246,20 CP4 TVA,"1.1.1.5  Arson/IIED
+Incendiary explosive device or intentional fire on the at grade ROW","Mitigation G
+[INF]
+Physical access control with fencing/barriers to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+401,TVA 2635,20 CP4 TVA,"1.1.1.6  Crime
+Incendiary explosive device or intentional fire on the at grade ROW","Mitigation J
+[INF]
+Physical access control with fencing/barriers to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+408,TVA 1261,20 CP4 TVA,"1.1.1.7  Crime
+Theft, Vandalism and Property Damage","Mitigation F
+[INF]
+Physical access control with fencing/barriers to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+"
+409,TVA 1262,20 CP4 TVA,"1.1.1.7  Crime
+Theft, Vandalism and Property Damage","Mitigation G
+[INF]
+Physical access control with fencing/barriers to restrict access to ROW","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)
+Specification",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+603,TVA 1406,20 CP4 TVA,"2.1.1.6  IED
+Detonates on or adjacent to the traction power (station).","Mitigation D
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+620,TVA 1416,20 CP4 TVA,"2.1.1.7  Sabotage
+To disrupt/ damage operation ability of traction power (station)","Mitigation D
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"TT-B0101 to TT-B0105
+CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+650,TVA 1445,20 CP4 TVA,"2.1.1.9  Cyber Attack
+Remote or on-site access, control and disruption of traction power (station).","Mitigation M
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"TT-B0101 to TT-B0105
+CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+658,TVA 1453,20 CP4 TVA,"2.1.1.10  Crime
+Trespass onto traction power station","Mitigation D
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"TT-B0101 to TT-B0105
+CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+669,TVA 1463,20 CP4 TVA,"2.1.1.11  Crime
+Vandalism and Property Damage to Traction Power (station).","Mitigation D
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"TT-B0101 to TT-B0105
+CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+680,TVA 1473,20 CP4 TVA,"2.1.1.12  Ramming
+Vehicle used to ram into traction power station
+","Mitigation D
+[INF]
+Physical security barriers (fencing) erected to restrict access and provide standoff","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,"TT-B0101 to TT-B0105
+CV-R1101-SWS513, CV-R1103-SRS14, CV-R1101-PS531, CV-R1102-SRS15, CV-R1101-PS532","CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+CV-R1101-SWS513 affected by DCN 133 rev 01",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+691,TVA 1483,20 CP4 TVA,"2.1.2.1  IED
+Detonates on or adjacent to rail signals.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+704,TVA 1492,20 CP4 TVA,"2.1.2.2  Sabotage
+To disrupt/ damage signals operation","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+723,TVA 1501,20 CP4 TVA,"2.1.2.4  Arson/IIED
+Incendiary explosive device or intentional Fire set to rail signal components","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+742,TVA 1518,20 CP4 TVA,"2.1.2.5  Cyber Attack
+Remote or on-site access, control and disruption of rail signals.","Mitigation L
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+750,TVA 2435,20 CP4 TVA,"2.1.2.6  Crime
+Vandalism and/or damage to rail signals.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+766,TVA 1536,20 CP4 TVA,"2.1.3.1  IED
+Detonates on or adjacent to rail switches.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Profiles,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+776,TVA 1545,20 CP4 TVA,"2.1.3.2  Sabotage
+To disrupt/ damage signals operation","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+"
+803,TVA 1563,20 CP4 TVA,"2.1.3.4  Cyber Attack
+Remote or on-site access, control and disruption of rail switch.","Mitigation L
+[INF]
+Physical security barriers (fencing) erected along the -At Grade Right of Way- to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+811,TVA 1571,20 CP4 TVA,"2.1.3.5  Crime
+Theft, vandalism and/or damage to rail switches","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+821,TVA 1581,20 CP4 TVA,"2.1.4.1  IED
+Detonates on or adjacent to rail interlocking system.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+834,TVA 1589,20 CP4 TVA,"2.1.4.2  Sabotage
+To disrupt/ damage Interlocking system operations","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+861,TVA 1606,20 CP4 TVA,"2.1.4.4  Cyber Attack
+Remote or on-site access, control and disruption of rail Signals.","Mitigation L
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from signals.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+870,TVA 1614,20 CP4 TVA,"2.1.4.5  Crime
+Vandalism and damage to rail interlocking system.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the ROW to restrict access and provide standoff from switches.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+Specification",Verified,TT-D1001 to TT-D1046 Plan,"TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+933,TVA 1665,20 CP4 TVA,"3.1.1.1  IED
+Detonates on or adjacent to rail track.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the -At Grade Right of Way- to prevent/restrict access from rail track","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+948,TVA 1674,20 CP4 TVA,"3.1.1.2  Sabotage
+To disrupt/ damage rail track.","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the -At Grade Right of Way- to prevent/restrict access from rail track","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+", , 
+961,TVA 1683,20 CP4 TVA,"3.1.1.3  Crime
+Trespass onto Rail track system","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the -At Grade Right of Way- to prevent/restrict access from rail track","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+973,TVA 1692,20 CP4 TVA,"3.1.1.4  Crime
+Vandalism and damage to rail track system","Mitigation C
+[INF]
+Physical security barriers (fencing) erected along the -At Grade Right of Way- to prevent/restrict access from rail track","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)",Verified,TT-B0101 to TT-B0105,"CV-Y4123 to CV-Y4146 (Drawings added by DCN 92)
+
+TT-B0112a toTT-B0112c (Drawings added by DCN 92)",,"DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+
+DL00020:
+Installation and construction of AR fencing is NIC however design is still to be included. 
+
+DL00020R3:
+DL00020-R3 is a notice to cancel DL00020. Please note DL00020-R1 and DL00020-R2 were created and
+ultimately combined into DL00020-R3 during the internal review. 
+
+DL00020R4: DL00020-R4 provides new Directive Drawings (DD-CV-006, DD-CV-920, DD-CV-921).  DL00020-R3 remains unchanged by R4.
+
+RVTM:  1622, 1624, 1629, 1630, 1632, 1634, 1642, 1643, 1645, 1646, 1649, 1651, 1666-1668, 1670, 1671, 1692-1694, 1697, 1700, 1708, 1710-1716, 1718-1720, 1722-1728, 1732, 1733, 1735-1738, 1740-1744, 1750, 1751, 12504, 12505, 13967, 14808","DL00020:
+Entire Segment
+
+DL00020R3:
+Entire Segment
+
+DL00020R4: Entire Segment
+"
+1963,IF 6330,30 CP4 IF-REG,2.1.1.1.1 Interface between O&M Universal Crossover Spacing Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M universal crossover spacing requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,There is no Universal Cross Over at North Civil.,"DL0004R1:
+Entire segment
+DL0004R1:
+Change nominal spacing between universal crossovers from 20-miles to 40-miles apart.
+
+RVTM:  944","DL0004R1:
+Entire segment","DL0004R1:
+Entire segment
+DL0004R1:
+Change nominal spacing between universal crossovers from 20-miles to 40-miles apart.
+
+RVTM:  944","DL0004R1:
+Entire segment"
+1964,IF 6331,30 CP4 IF-REG,2.1.1.1.2 Interface between O&M Station Crossover Spacing Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M station crossover spacing requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,,,Moved to N/A as per discussions with HSR Authority in Interface Meeting.," 
+ ", ," 
+ ", 
+1966,IF 355,30 CP4 IF-REG,"2.1.1.2.1 Interface between O&M Maximum Design Speed (HST Tracks) and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M maximum design speed (HST tracks) has been applied by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1003 to TT-D1020
+TT-D1024 to TT-D1034","TT-D1001 to TT-D1046 Plan (as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",Max. Speed is 250mph as per Curve data table ," 
+ ", , , 
+1967,IF 4355,30 CP4 IF-REG,"2.1.1.2.2 Interface between O&M Maximum Design Speed (Special Trackwork) and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M maximum design speed (special trackwork) has been applied by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,There is no Universal CrossOver/Special Track in North section,"DL0004:
+At all universal crossovers in segment.
+DL0004:
+Reduce the design speed from 110-mph to 80-mph at universal crossovers
+
+RVTM: 790, 800","DL0004:
+At all universal crossovers in segment.","DL0004:
+At all universal crossovers in segment.
+DL0004:
+Reduce the design speed from 110-mph to 80-mph at universal crossovers
+
+RVTM: 790, 800","DL0004:
+At all universal crossovers in segment."
+1969,IF 187,30 CP4 IF-REG,"2.1.1.3.1 Interface between O&M Computer-Based Modeling and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the correct GWY track alignment configuration, track alignment features and performance criteria have been applied by the O&M team in the computer-based modeling (static simulation).","Design Baseline Report
+HST At-Grade (Guideway)",Pending,,TT-D1003 to TT-D1045  (Design Speed is 250MPH) (as affected by DCN 59),Information is pending from HSR Authority to run model for end to end HSR. ," 
+ ", , , 
+1971,IF 597,30 CP4 IF-REG,"2.1.1.4.1 Interface between O&M Visibility of Wayside/Trackside Equipment Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M visibility of wayside/trackside equipment requirements have been applied by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Pending,,,Information is pending from HSR Authority for visibility requirements for train driver to verify this Interface. ," 
+ ", ," 
+ ", 
+1975,IF 911,30 CP4 IF-REG,"2.2.1.1.1 Interface between O&M MoI Infrastructure Access Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI infrastructure access requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified," CV-R3101-SWS513
+CV-R5101-SWS513,
+CV-R3101-SRS14,
+CV-R5101-SRS14,
+CV-R3101-PS531,
+CV-R5101-PS531,
+CV-R3101-SRS15,
+CV-R5101-SRS15,
+CV-R3101-PS532,
+CV-R5101-PS532
+CV-R1101-SWS513
+CV-R1101-SRS14
+CV-R1102-SRS14
+CV-R1103-SRS14
+CV-R1101-PS531
+CV-R1101-SRS15
+CV-R1102-SRS15","CV-R3101-SWS513, CV-R5101-SWS513, CV-R1101-SWS513 affected by DCN 133 rev 0","Access road is 22' Including shoulder,Turning radius 48 feet and Gate entry to facility is 20 Feet"," 
+ ", , , 
+1977,IF 843,30 CP4 IF-REG,"2.2.1.2.1 Interface between O&M MoI Walkway Spatial Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI walkway spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", ," 
+ ", 
+1978,IF 912,30 CP4 IF-REG,"2.2.1.2.2 Interface between O&M MoI Access Stairway Spatial Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI access stairway spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Open Trench",Verified,"TT-D1006
+TT-D1014
+TT-D1023
+TT-D1031
+TT-D1039",TT-D1006 affected by DCN 133 rev 0,Emergency Access Stairways," 
+ ", ," 
+ ", 
+1983,IF 512,30 CP4 IF-REG,2.2.1.4.1 Interface between O&M MoI Equipment Dynamic Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI equipment dynamic envelope requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", , , 
+1987,IF 2586,30 CP4 IF-REG,"2.2.1.5.1 Interface between O&M MoI CIV Maintainability & Ease of Maintenance Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the applicable O&M MoI CIV maintainability & ease of maintenance requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-B0101 to TT-B0105
+TT-B0111 ,TT-B0112",,15' Maintenance Access ," 
+ ", ," 
+ ", 
+1989,IF 1203,30 CP4 IF-REG,"2.2.1.5.3 Interface between O&M MoI DRN Maintainability & Ease of Maintenance Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the O&M MoI DRN maintainability & ease of maintenance requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,"TT-B0110  to TT-B0112
+TT-G3101 to TT-G3103",TT-G3101 (affected by DCN 100),Typical Section sof Drainage System," 
+ ", ," 
+ ", 
+1994,IF 831,30 CP4 IF-REG,3.3.1.1.1 Interface between O&M MoI TCS Interlocking & TCC House Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI TCS Interlocking & TCC house site access requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel",N/A,N/A,,No Interlocking in North ," 
+ ", ," 
+ ", 
+1997,IF 5611,30 CP4 IF-REG,3.3.2.1.1 Interface between SYS TCS Interlocking & TCC House Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS interlocking & TCC house site location (where to install, not size) requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",N/A,N/A,,No Interlocking in North ," 
+ ", ," 
+ ", 
+1998,IF 794,30 CP4 IF-REG,3.3.2.1.2 Interface between SYS TCS Interlocking & TCC House Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS interlocking & TCC house site spatial requirements (site, not location) have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",N/A,N/A,,No Interlocking in North ," 
+ ", ," 
+ ", 
+2000,IF 3304,30 CP4 IF-REG,3.3.2.2.1 Interface between SYS TCS Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS wayside/field equipment (not trackside) spatial requirements have been addressed by the INF team.F45","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Pending,,,Awaiting confirmation from the Authority Team that the spatial dimensions provided for TCS wayside equipment are sufficient.," 
+ ", ," 
+ ", 
+2001,IF 5627,30 CP4 IF-REG,3.3.2.2.2 Interface between SYS TCS Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS wayside/field equipment foundation requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Pending,,,Awaiting confirmation from the Authority Team that the spatial dimensions provided for TCS wayside equipment foundation are sufficient.," 
+ ", ," 
+ ", 
+2003,IF 876,30 CP4 IF-REG,"3.3.2.3.1 Interface between SYS TCS Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS TCS conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team, including but not limited to:
+- Track circuits & cases
+- Signals
+- Transponder & LEU
+- Cross bonding
+- Signal power supply
+- Signal power distribution
+- ...","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification",Verified,TT-B0101 to TT-B0111,,.," 
+ ", ," 
+ ", 
+2007,IF 2611,30 CP4 IF-REG,3.3.2.5.1 Interface between SYS TCS System Utility Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TCS system utility spatial requirements have been addressed by the INF team, including but not limited to:
+- Electrical utility (e.g. PG&E)
+- Gas/fuel
+- Water
+- Sewer
+- Communications","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",N/A,N/A,,N/A for Middle Civil Section.All SYS TCS Utility spatial  interface requiremement have been verified in South Civil Section submittal. of CP4.," 
+ ", ," 
+ ", 
+2011,IF 5871,30 CP4 IF-REG,3.4.1.1.1 Interface between O&M MoI COM Equipment Shelter & Radio Tower Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI COM equipment shelter & radio tower site access requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",Verified,"TT-D1006,TT-D1014,TT-D1023,TT-D1031,TT-D1039","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",Space accomodations provided for a communication shelter & radio tower at a spacing of approx 5 miles.," 
+ ", ," 
+ ", 
+2014,IF 5653,30 CP4 IF-REG,3.4.2.1.1 Interface between SYS COM Equipment Shelter & Radio Tower Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM equipment shelter & radio tower site location (where to install, not size) requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",Verified,"TT-D1006,TT-D1014,TT-D1023,TT-D1031,TT-D1039","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",Space accomodations provided for a communication shelter & radio tower at a spacing of approx 5 miles.,"RFI 0080:
+S-SRS-WOO
+RFI 0080:
+Standalone radio site S-SRS-WOO location is located at Sta 14961+50","RFI 0080:
+S-SRS-WOO","RFI 0080:
+S-SRS-WOO
+RFI 0080:
+Standalone radio site S-SRS-WOO location is located at Sta 14961+50","RFI 0080:
+S-SRS-WOO"
+2015,IF 904,30 CP4 IF-REG,3.4.2.1.2 Interface between SYS COM Equipment Shelter & Radio Tower Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM equipment shelter & radio tower site spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",Verified,"TT-D1006,TT-D1014,TT-D1023,TT-D1031,TT-D1039","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+2017,IF 600,30 CP4 IF-REG,3.4.2.2.1 Interface between SYS COM Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM wayside/field equipment spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Pending,,,Awaiting confirmation from the Authority Team that the spatial dimensions provided for Communication wayside equipment are sufficient.," 
+ ", ," 
+ ", 
+2018,IF 5725,30 CP4 IF-REG,3.4.2.2.2 Interface between SYS COM Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS COM wayside/field equipment foundation requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",N/A,,,Moved to N/A as per discussions with HSR Authority in Interface Meeting.," 
+ ", ," 
+ ", 
+2020,IF 877,30 CP4 IF-REG,"3.4.2.3.1 Interface between SYS COM Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS COM conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification",Verified,"CO-B0101 to CO-B0104
+CO-Y5001 ,CO-D1101 to CO-D1111","CO-D1101 to CO-D1111 (as affected by DCN 59)
+
+CO-D1101 affected b y DCN 133 rev 0",," 
+ ", ," 
+ ", 
+2022,IF 657,30 CP4 IF-REG,"3.4.2.4.1 Interface between SYS COM Air Gap Requirements and GWY Infrastructure
+","Purpose/Scope:
+Ensures that the SYS COM air gap requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",N/A,,,Moved to N/A interface as per discussions with Authority during interface meeting.," 
+ ", ," 
+ ", 
+2028,IF 4252,30 CP4 IF-REG,"3.5.1.1.1 Interface between SYS Conduit, Duct Bank, Cable Trough & Manhole Requirements G&B Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS conduit, duct bank, cable trough & manhole grounding & bonding requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification",N/A,,,Reviewed as a part of the structural submittals,"DL0011:
+Entire segment
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment","DL0011:
+Entire segment
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment"
+2030,IF 1141,30 CP4 IF-REG,3.5.1.2.1 Interface between SYS At-Grade G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS at-grade grounding & bonding requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+Specification",N/A,,,"Moved to N/A as per discussions with HSR Authority in Interface Meeting.
+","DL0011:
+Entire segment
+
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment
+","DL0011:
+Entire segment
+
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment
+"
+2033,IF 4112,30 CP4 IF-REG,3.5.1.3.2 Interface between SYS New Overpass Structure G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS new overpass structure grounding & bonding requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+RDW Overhead (HST Underpass)
+Report and/or Calculation",N/A,N/A,,Reviewed as a part of the structural submittals," 
+ ", ," 
+ ", 
+2038,IF 3999,30 CP4 IF-REG,3.5.1.5.1 Interface between SYS Utility G&B Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS utility grounding & bonding requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation
+Specification",Pending,,,"Close when all Utility Submittals are completed. Grounding and Bonding is required at utility crossing. Since casings are steel and buired in the ground, utilities are essentially grounded and calculations demonstrate that additional grounding is not required. ","DL0011:
+Entire segment
+
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment
+","DL0011:
+Entire segment
+
+DL0011:
+Contractor is provided the following clarifications to Design Criteria Manual Section 22.12:
+If transverse metallic sleeves or casings are bare (uncoated), buried with direct contact with earth, and has a ground resistance of 25 ohms or less, they do not have to be grounded with a grounding electrode. However, if the sleeve or casing is coated with any form of insulating surface treatment, it will have to be grounded at one end via a grounding electrode to provide a ground resistance of 25 ohms or less. If transverse reinforced concrete pipes for utilities and/or cross culverts for drainage are buried with direct contact with earth, they do not have to be grounded with a grounding electrode.
+Attachment: RDP Directive Number 0008
+
+RVTM:  12673","DL0011:
+Entire segment
+"
+2045,IF 392,30 CP4 IF-REG,4.1.1.1.1 Interface between RST HST Trainset Minimum Horizontal Radii Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset requirements have been addressed in the GWY/ALG design criteria.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-E0101,TT-E0102",,R=45000 FT," 
+ ", , , 
+2047,IF 489,30 CP4 IF-REG,4.1.1.1.3 Interface between RST HST Trainset Actual Superelevation Requirements (incl. Tilting) and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset actual superelevation requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,"TT-E0101,TT-E0102",,Ea(IN) 3.50," 
+ ", , , 
+2048,IF 395,30 CP4 IF-REG,4.1.1.1.4 Interface between RST HST Trainset Unbalanced Superelevation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset unbalanced superelevation requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-E0101,TT-E0102",,Eu(IN)2.06," 
+ ", , , 
+2049,IF 70,30 CP4 IF-REG,4.1.1.1.5 Interface between RST HST Trainset Maximum Grade Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset maximum grade requirements have been addressed by the INF team, including but not limited to:
+- Trainset performance
+- Brake performance","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"TT-D1035 to TT-D1046,
+TT-D1001 to TT-D1034","TT-D1001 to TT-D1034
+(as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0
+",Less than 2.5%," 
+ ", , , 
+2051,IF 490,30 CP4 IF-REG,4.1.1.2.1 Interface between RST HST Trainset Static Gauge Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset static gauge requirements have been addressed by the INF team, including but not limited to:
+- Tangent
+- Curved
+- Superelevated (incl. tilting)
+- Curved & superelevated","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", ," 
+ ", 
+2052,IF 481,30 CP4 IF-REG,4.1.1.2.2 Interface between RST HST Trainset Dynamic Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the RST HST trainset dynamic envelope requirements have been addressed by the INF team, including but not limited to:
+- Tangent
+- Curved
+- Superelevated (incl. tilting)
+- Curved & superelevated","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", ," 
+ ", 
+2069,IF 1260,30 CP4 IF-REG,5.2.1.1.1 Interface between O&M MoI Pump Station Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI pump station site access requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",N/A,N/A,,No Pump station in North Section.," 
+ ", , , 
+2074,IF 878,30 CP4 IF-REG,3.1.1.1.1 Interface between O&M MoI TP Facility Site Access Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the O&M MoI TP facility site access requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,"CV-R1101-SWS513 (Plan)
+GE-C0102,
+CV-R5101-SWS513,
+CV-R1101-PS531,
+CV-R5101-PS531,
+CV-R1101-PS532,
+CV-R5101-PS532","CV-R5101-SWS513, CV-R1101-SWS513 affected by DCN 133 rev 0",General Notes: 9 Fencing and Gate Details (DRG GE-C0102)," 
+ ", ," 
+ ", 
+2077,IF 80,30 CP4 IF-REG,3.1.2.1.1 Interface between TRK TP Maximum Grade @ Phase Break Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP system maximum grade @ phase break requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)",Verified,TT-D1006,"TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",-0.04%,"TPSS site at current Wasco compound sta 15555+00.  Any other location would require a further change approval.
+Permit a 0.79% grade on the HSR profile at TPSS location (sta. 15555+00)
+and 1.03% grade at 2500 feet to the north.",TPSS site at current Wasco compound sta 15555+00.  Any other location would require a further change approval.,"TPSS site at current Wasco compound sta 15555+00.  Any other location would require a further change approval.
+Permit a 0.79% grade on the HSR profile at TPSS location (sta. 15555+00)
+and 1.03% grade at 2500 feet to the north.",TPSS site at current Wasco compound sta 15555+00.  Any other location would require a further change approval.
+2079,IF 5597,30 CP4 IF-REG,3.1.2.2.1 Interface between TRK TP Facility & WPC Site Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP facility & WPC site location (where to install, not size) requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel",Verified,"TT-D1006
+TT-D1023
+TT-D1031
+TT-D1039","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0",Distance between SWS on CP4 (STA 14846+00)  and SS (STA 1555+00) is approx 14miles .And PS site(STA 15100+00) located at approx 5 miles interwal between switcing stations and sub stations sites," 
+ ", ," 
+ ", 
+2080,IF 4271,30 CP4 IF-REG,3.1.2.2.2 Interface between TRK TP Facility & WPC Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP facility & WPC site spatial (site, not location) requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel",Verified,"TT-D1006
+TT-D1023
+TT-D1031
+TT-D1039
+","TT-D1006 (as affected by DCN 59)
+
+TT-D1006 affected by DCN 133 rev 0","Distance between SWS on CP4 (STA 14846+00)  and SS (STA 1555+00) is approx 14miles .And PS site(STA 15100+00) located at approx 5 miles interwal between switcing stations and sub stations sites
+"," 
+ ", ," 
+ ", 
+2082,IF 1143,30 CP4 IF-REG,3.1.2.3.1 Interface between TRK TP Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP wayside/field equipment spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",Pending,,TT-D1006 (as affected by DCN 59),Awaiting confirmation from the Authority Team that the spatial dimensions provided for TP wayside equipment are sufficient.," 
+ ", ," 
+ ", 
+2083,IF 5671,30 CP4 IF-REG,3.1.2.3.2 Interface between TRK TP Wayside/Field Equipment Foundation Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP wayside/field equipment foundation requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench",N/A,,,"Moved to N/A as per discussions with HSR Authority in Interface Meeting.
+"," 
+ ", ," 
+ ", 
+2085,IF 885,30 CP4 IF-REG,"3.1.2.4.1 Interface between TRK TP Conduit, Duct Bank, Cable Trough & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS TP conduit, duct bank, cable trough & manhole requirements have been addressed by the INF team, including but not limited to:
+- Overhead or duct bank from TPF to Main Gantry
+- Overhead from Main Gantry to Strain Gantry
+- Return System to Gantries
+- Feeder cables
+- Return cables
+- Surface conduits (multiple, large diameter)
+- Embedded conduits
+- ...","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification",Verified,"TP-B0101 to TP-B0103,
+TP-Y5001,
+TP-D1101 to TP-D1103","TP-B0101, TP-B1012, TP-D1101 affected by DCN 133 rev 0",,"DL0008:
+Entire segment
+DL0008:
+See RDP Directive Number 0004
+• Contractor is hereby directed to install all LV underground conduit ductbanks that lead to an adjacent Systems Site (i.e.,Traction Power Facility, Train Control Facility, and Stand-Alone Radio Site). The ductbank shall be terminated (capped or plugged and the connection shall allow the future extension of the ductbank) 1 ft beyond the System Site's footprint and install a telltale (e.g.: small PVC pipe) to mark the end of ductbank for future installation reference. Refer to Figure 1.
+• Contractor is hereby directed to install one (1) HV manhole and 12 HV underground conduit ductbank (for rail return) that lead to an adjacent Traction Power Facility (main gantry is located inside the Traction Power Facility's footprint). The ductbank shall be terminated (capped or plugged and the connection shall allow the future extension of the ductbank) 1 ft beyond the Traction Power Facility's footprint and install a telltale (e.g.: small PVC pipe) to mark the end of ductbank for future installation reference. Refer to Figure 2.
+• ","DL0008:
+Entire segment","DL0008:
+Entire segment
+DL0008:
+See RDP Directive Number 0004
+• Contractor is hereby directed to install all LV underground conduit ductbanks that lead to an adjacent Systems Site (i.e.,Traction Power Facility, Train Control Facility, and Stand-Alone Radio Site). The ductbank shall be terminated (capped or plugged and the connection shall allow the future extension of the ductbank) 1 ft beyond the System Site's footprint and install a telltale (e.g.: small PVC pipe) to mark the end of ductbank for future installation reference. Refer to Figure 1.
+• Contractor is hereby directed to install one (1) HV manhole and 12 HV underground conduit ductbank (for rail return) that lead to an adjacent Traction Power Facility (main gantry is located inside the Traction Power Facility's footprint). The ductbank shall be terminated (capped or plugged and the connection shall allow the future extension of the ductbank) 1 ft beyond the Traction Power Facility's footprint and install a telltale (e.g.: small PVC pipe) to mark the end of ductbank for future installation reference. Refer to Figure 2.
+• ","DL0008:
+Entire segment"
+2091,IF 656,30 CP4 IF-REG,3.2.1.1.1 Interface between TRK OCS Pantograph Clearance Envelope Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS pantograph clearance envelope requirements have been addressed by the INF team (actual wayside equipment is addressed elsewhere).","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Overhead (HST Underpass)
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", ," 
+ ", 
+2093,IF 3299,30 CP4 IF-REG,3.2.1.2.1 Interface between TRK OCS Structure & Wire Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS structure & wire spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,TT-B0101 to TT-B0109,,," 
+ ", , , 
+2094,IF 5752,30 CP4 IF-REG,3.2.1.2.2 Interface between TRK OCS Wayside/Field Equipment Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS wayside/field equipment spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Pending,,,Awaiting confirmation from the Authority Team that the spatial dimensions provided for OCS wayside equipment are sufficient.,"DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+"
+2095,IF 5766,30 CP4 IF-REG,3.2.1.2.3 Interface between TRK OCS Phase Break Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS Phase Break Spatial Requirements and GWY Infrastructure","Design Baseline Report
+HST At-Grade (Guideway)
+HST Cut & Cover Tunnel",Verified,"TP-B0101 to TP-B0103,TP-Y5001,TP-D1101 to TP-D1103","TP-B0101, TP-B1012, TP-D1101 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+2097,IF 898,30 CP4 IF-REG,3.2.1.3.1 Interface between TRK OCS Foundation & Supporting Structure Location Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS foundation & supporting structure location requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,"TT-D1001 to TT-D1034
+TT-D1035 to TT-D1046
+TT-D5001 to TT-D5002","TT-D1001 to TT-D1034 (as affected by DCN 59)
+TT-D1035 to TT-D1046 (as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+DVR 0016: Kimberlina Structure"
+2098,IF 5780,30 CP4 IF-REG,3.2.1.3.2 Interface between TRK OCS Foundation & Supporting Structure Spatial Requirements and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS OCS foundation & supporting structure spatial requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",Verified,"TT-D1001 to TT-D1034
+TT-D1035 to TT-D1046
+TT-D5001 to TT-D5002","TT-D1001 to TT-D1034 (as affected by DCN 59)
+TT-D1035 to TT-D1046 (as affected by DCN 59)
+
+TT-D1004, TT-D1006 affected by DCN 133 rev 0",,"DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+
+DVR 0016: Kimberlina Structure
+
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+
+DVR 0016: Kimberlina Structure
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+
+DVR 0016: Kimberlina Structure
+
+DVRs 0006, 0007, 0008, 0009, 0011, 0014: OCS poles may have a greater spacing at the bridges; OCS pole foundations located off bridge shall be shown on the drawings.
+
+DVR 0016: OCS Poles at Kimberlina Structure shall be located at the center of the span; OCS Pole foundations located off-bridge shall be shown on the drawings.
+","DVR 0006: Garces Structure
+DVR 0007: Pond Road Structure
+DVR 0008: Peterson Structure
+DVR 0009: Poso Creek
+DVR 0011: SR 46 Underpass
+DVR 0014 Poso Ave Structure
+
+DVR 0016: Kimberlina Structure
+"
+2100,IF 886,30 CP4 IF-REG,"3.2.1.4.1 Interface between TRK OCS Conduit, Duct Bank & Manhole Requirements and GWY Infrastructure","Purpose/Scope:
+Ensures that the SYS OCS conduit, duct bank & manhole requirements have been addressed by the INF team, including but not limited to:
+- Traction power return
+- Grounding
+- Cross bonding
+- Disconnect switches
+- Switch heater power supply
+- Switch heater power distribution
+- ...","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)
+Specification",Verified,"TP-B0101 to TP-B0103,TP-Y5001,TP-D1101-TP-D1103","TP-B0101, TP-B0102, TP-B0103, TP-D1101 affected by DCN 133 rev 0",," 
+ ", ," 
+ ", 
+2109,IF 2606,30 CP4 IF-REG,6.1.1.1.1 Interface between EXT TP Auxiliary Power & Utility Spatial Needs at TPF Sites  and GWY Infrastructure,"Purpose/Scope:
+Ensures that the SYS TP system utility spatial requirements have been addressed by the INF team, including but not limited to:
+Traction power
+Electrical utility (e.g. PG&E)
+Gas/fuel
+Water
+Sewer
+Communications","Design Baseline Report
+HST At-Grade (Guideway)
+Report and/or Calculation",Pending,"TT-D1006
+TT-D1023
+TT-D1039",,Close when all Utility Submittals are completed. ," 
+ ", ," 
+ ", 
+2113,IF 3764,30 CP4 IF-REG,6.2.1.1.1 Interface between EXT Amtrak Trainset Dynamic Envelope Requirements and GWY ,"Purpose/Scope:
+Ensures that the EXT Amtrak trainset dynamic envelope requirements have been addressed by the INF team.","Design Baseline Report
+HST At-Grade (Guideway)
+HST Aerial Structure and/or Bridge
+HST Cut & Cover Tunnel
+HST Open Trench
+RDW Underpass (HST Overpass)",N/A,,,"Moved to N/A as per discussions with HSR Authority in Interface Meeting.
+"," 
+ ", ," 
+ ", 
