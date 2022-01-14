@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser ICD.ipynb
+worker: voila --port=$PORT --no-browser ICD.ipynb
